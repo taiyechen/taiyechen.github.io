@@ -13,7 +13,7 @@ name                     : &name "Taiye Chen"
 description              : &description "PhD Candidate in Economics"
 url                      : https://taiyechen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : #"taiyechen/supreme-octo-broccoli"
+repository               : "taiyechen/taiyechen.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 mastodon:
-  username               : "fosstodon.org/@jayrobw"
+  username               : 
 twitter:
   username               : 
 facebook:
@@ -85,10 +85,11 @@ analytics:
 # Site Author
 author:
   name             : "Taiye Chen"
+  pronouns         : "She/Her/Her"  
   avatar           : "profile.png"
   bio              : "PhD Candidate in Economics"
-  location         :
-  employer         :
+  location         : "Washington DC"
+  employer         : "American University"
   pubmed           :
   orcid            : #"http://orcid.org/0000-0001-9259-3883"
   googlescholar    : #"https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
@@ -101,14 +102,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "taiyechen"
+  github           : #"taiyechen"
   gitlab           : #"taiyechen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://linkedin.com/in/taiye-chen"
   mastodon         : #"fosstodon.org/@jayrobw"
   pinterest        :
   soundcloud       :
