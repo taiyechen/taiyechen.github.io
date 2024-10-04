@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-  Welcome! 
+##  Welcome! 
 
 🙋 I am a PhD candidate at American University, entering the job market this year.
 
-🗂️ My primary research interests are international trade, development economics, and macroeconomics. My research explores the intersection of exchange rate dynamics, global value chains, and economic development in emerging markets.  
+🗂️ My primary research interests are *international trade*, *development economics*, and *macroeconomics*. My research explores the intersection of exchange rate dynamics, global value chains, and economic development in emerging markets.  
 
 📝 I'm currently working towards my dissertation. It focuses on how exchange rate fluctuations and policies influence global value chain participation and resource allocation.
 
