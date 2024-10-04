@@ -1,28 +1,21 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
 
-I earned my PhD in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-BA in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) in the
-*American Political Science Review*, *International Studies Quarterly*,
-*Conflict Management and Peace Science*, and
-*Political Science Research and Methods*, among other outlets. This
-[research](research) explores the causes and consequences of political violence
-using a broad variety of methods such as latent variable models, geospatial
-analysis, and big data. I have [taught](teaching) quantitative methodology and
-international relations, and am a certified instructor with
-[The Carpentries](https://carpentries.org).
+  Welcome! 
+
+🙋 I am a PhD candidate at American University, entering the job market this year.
+
+🗂️ My primary research interests are international trade, development economics, and macroeconomics. My research explores the intersection of exchange rate dynamics, global value chains, and economic development in emerging markets.  
+
+📝 I'm currently working towards my dissertation. It focuses on how exchange rate fluctuations and policies influence global value chain participation and resource allocation.
+
+💡 Beyond my dissertation, I have a strong interest in geoeconomic fragmentation and debt sustainability. With  experience working at international organizations such as the UN and APEC, I am passionate about bridging research and policy to drive sustainable economic growth. 
+
+🔀 Please explore my work and feel free to connect with me.

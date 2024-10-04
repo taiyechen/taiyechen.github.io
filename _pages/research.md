@@ -3,31 +3,24 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-header:
-  og_image: "research/ecdf.png"
+
 ---
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
+My academic research focuses on how exchange rate fluctuations influence trade and global value chain (GVC) participation.
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+One strand of this research investigates how dominant currency invoicing, particularly in US dollars, shapes countries' integration into GVCs. Another strand examines the impact of exchange rate volatility on resource allocation and its broader implications for economic competitiveness.
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+My second major research agenda explores the effects of geoeconomic fragmentation and debt sustainability. I analyze how geopolitical tensions impact economic gains and losses for countries in different groups, as well as how these dynamics influence their integration into the global financial system and expose vulnerabilities in their debt structures.
+
+Across these projects, I employ econometric analysis, advanced quantitative methods, and real-world data to address critical macroeconomic challenges in global trade and development.
+
+
+### Current research projects include:
+
+**Job Market Paper: "The Impact of Trade Invoicing Decisions on Global Value Chain Participation: An Empirical Analysis"**
+
+ Over the past three decades, globalization has led to a highly interconnected global production network. This paper examines the impact of exchange rate fluctuations on forward and backward participation in global value chains (GVCs) through the lens of exchange rate passthrough and dominant currency invoicing. Specifically, it investigates how dominant currency invoicing by non-dominant countries alters the effects of exchange rate movements on general, backward, and forward GVC participation. Utilizing a sample of 96 countries from 1990 to 2020, the findings confirm that trade invoiced in dominant currencies is more sensitive to movements of those currencies. A stronger dominant currency tends to dampen overall trade, with a particularly significant impact on GVC backward linkages, which subsequently affects forward participation patterns in the long run.
+
 
 <nbsp>
 
