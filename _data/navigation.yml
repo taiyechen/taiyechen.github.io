@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "CV"
+    url: /files/T. Chen CV.pdf
+    
   - title: "Publications"
     url: /publications/
     
@@ -15,5 +18,4 @@ main:
   #- title: "Posts"
   #  url: /posts/
     
-  - title: "CV"
-    url: /files/T. Chen CV.pdf
+
