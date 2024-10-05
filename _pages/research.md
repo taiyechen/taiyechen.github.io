@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-My academic research focuses on how exchange rate fluctuations influence trade and global value chain (GVC) participation.
+My academic research focuses on how exchange rate fluctuations influence trade and resource allocation.
 
 One strand of this research investigates how dominant currency invoicing, particularly in US dollars, shapes countries' integration into GVCs. Another strand examines the impact of exchange rate volatility on resource allocation and its broader implications for economic competitiveness.
 
