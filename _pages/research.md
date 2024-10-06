@@ -7,11 +7,9 @@ author_profile: true
 ---
 
 
-My current research examines how exchange rate fluctuations affect trade and global economic integration. One key focus is how dominant currency invoicing, particularly in US dollars, influences countries' participation in global value chains (GVCs) and shapes their economic competitiveness.
+My current research examines how exchange rate fluctuations affect trade and global economic integration. One key focus is how dominant currency invoicing, particularly in US dollars, influences countries' participation in global value chains and shapes their economic competitiveness.
 
 My second major research agenda explores the effects of geoeconomic fragmentation and debt sustainability. I analyze how geopolitical tensions impact economic gains and losses for countries in different groups, as well as how these dynamics influence their integration into the global financial system and expose vulnerabilities in their debt structures.
-
-Using econometric analysis and advanced quantitative methods, my work addresses critical challenges in global trade and development.
 
 
 ##  Current research projects include:
