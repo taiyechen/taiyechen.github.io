@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "The Supply and Demand of Me"
 author_profile: true
 redirect_from: 
   - /about/

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Inked Insights"
 permalink: /publications/
 author_profile: true
 ---
