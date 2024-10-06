@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "The Official Brag Sheet"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:

@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "TA-DA! Teaching Adventures"
+title: "Teaching"
 ---
 
 Teaching is a vital component of my academic engagement, where I enhance students’ analytical skills and mastery of economic and statistical concepts through interactive and practical learning experiences. As a **teaching assistant** for several graduate-level courses at American University, including Economic Theory and International Trade Theory, I have worked with students from diverse backgrounds, both in person and online, helping them navigate complex theories and quantitative methods.
