@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "The Research Rabbit Hole"
+title: ""
 permalink: /research/
 author_profile: true
 
