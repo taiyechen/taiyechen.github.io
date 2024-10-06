@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "CV"
+title: "The Official Brag Sheet"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-You can download a PDF copy of my CV [here](/files/pdf/T. Chen CV.pdf).
+You can download a PDF copy of my CV [here](/files/T. Chen CV.pdf).
