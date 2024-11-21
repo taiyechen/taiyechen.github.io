@@ -15,7 +15,7 @@ My second major research agenda explores the effects of geoeconomic fragmentatio
 ##  Current research projects include:
 
 ### Job Market Paper: "The Impact of Trade Invoicing Decisions on Global Value Chain Participation: An Empirical Analysis"
-[Link here](/files/JMP 1120 TC.pdf)
+[Link here](/files/JMP-TC.pdf)
 
  Over the past three decades, globalization has led to a highly interconnected global production network. This paper examines the impact of exchange rate fluctuations on forward and backward participation in global value chains (GVCs) through the lens of exchange rate passthrough and dominant currency invoicing. Specifically, it investigates how dominant currency invoicing by non-dominant countries alters the effects of exchange rate movements on general, backward, and forward GVC participation. Utilizing a sample of 96 countries from 1990 to 2020, the findings confirm that trade invoiced in dominant currencies is more sensitive to movements of those currencies. A stronger dominant currency tends to dampen overall trade, with a particularly significant impact on GVC backward linkages, which subsequently affects forward participation patterns in the long run.
 
