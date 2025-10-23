@@ -12,7 +12,7 @@ redirect_from:
 
 🙋 I've recently completed my PhD in Economics at American University and open to Economist/ Consultant/ Policy Analyst/ Research Associate roles.
 
-🗂️ My primary research fields are *international trade*, *development economics*, and *macroeconomics*. My research explores how exchange rate dynamics affect trade flow, global value chains, and domestic sectoral employment growth. Through my work with the UN and APEC, I have also developed a strong interest and aim to explore in geoeconomic fragmentation and debt sustainability in future research
+🗂️ My primary research fields are *international economics*, *development economics*, and *macroeconomics*. My research explores how exchange rate dynamics affect trade flow, global value chains, and domestic sectoral employment growth. Through my work with the UN and APEC, I have also developed a strong interest and aim to explore in geoeconomic fragmentation and debt sustainability in future research
 
 💡 With experience working at international organizations, I am passionate about bridging research and policy to drive sustainable economic growth. 
 
