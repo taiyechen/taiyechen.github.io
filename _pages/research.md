@@ -14,14 +14,16 @@ My second major research agenda explores the effects of geoeconomic fragmentatio
 
 ##  Current research projects include:
 
-### Job Market Paper: "The Impact of Trade Invoicing Decisions on Global Value Chain Participation: An Empirical Analysis"
+### Job Market Paper: "Dominant Trade Invoicing and GVC Participation: A Two-Way Interaction"
 [Link here](/files/JMP-TC.pdf)
+
+ This work push further from one of my works. It further examines the bidirectional relationship between dominant currency invoicing practicing in international trade and participation in Global Value Chains (GVCs). This essay examines the bidirectional relationship between dollar-invoiced trade and bilateral GVC flow using a Two-Stage Least Squares (2SLS) instrumental variables approach. The results reveal a robust and negative bidirectional relationship: greater reliance on the dollar in trade constrains deeper GVC integration, while increased participation in GVCs, in turn, reduces dollar dependence. These patterns are sensitive to exchange rate volatility, underscoring the complexity of policy trade-offs under uncertainty.
+
+
+### "The Impact of Trade Invoicing Decisions on Global Value Chain Participation: An Empirical Analysis"
 
  Over the past three decades, globalization has led to a highly interconnected global production network. TThis paper investigates how exchange rate fluctuations influence global value chain (GVC) participation at a disaggregated level, focusing on the role of dominant currency invoicing. Using data from 96 countries (1990–2020), the analysis shows that trade invoiced in dominant currencies is more sensitive to exchange rate movements. Dollar appreciation dampens GVC participation, particularly backward production, which in turn affects forward linkages over time. However, dominant currency invoicing mitigates some of these negative effects, highlighting its stabilizing role amid currency fluctuations. 
 
-### "Dominant Trade Invoicing and GVC Participation: A Two-Way Interaction"
-
- This work serves as an extension from one of my works. It further examines the bidirectional relationship between dominant currency invoicing practicing in international trade and participation in Global Value Chains (GVCs). Employing local projection methods, the project investigates two interrelated dynamics: (1) how trade invoicing in dominant currencies influences GVC participation at disaggregated levels—and (2) how integration into GVCs shapes incentives to adopt dominant currencies over domestic or partner-country currencies. Preliminary results reveal asymmetric responses: greater dominant currency usage enhances backward and forward GVC participation by reducing transaction costs and exchange rate risks, while deeper GVC integration amplifies reliance on dominant currencies to mitigate pricing mismatches and enhance contractual credibility. These initial findings highlight a potential self-reinforcing cycle, wherein dominant currencies and GVC linkages co-evolve, with path-dependent effects on trade structures.
 
 ### "Are Real Exchange Rate Undervaluation and Trade Integration Complements? An Evaluation on Employment Reallocation"
 
