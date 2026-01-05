@@ -14,7 +14,7 @@ My second major research agenda explores the effects of geoeconomic fragmentatio
 
 ##  Current research projects include:
 
-### Job Market Paper: "Dominant Trade Invoicing and GVC Participation: A Two-Way Interaction"
+### Job Market Paper: "U.S. Dollar Invoicing and GVC Participation: A Two-Way Interaction"
 [Link here](/files/JMP-TC.pdf)
 
 This work pushes further from one of my works. It further examines the bidirectional relationship between dominant currency invoicing practicing in international trade and participation in Global Value Chains (GVCs). This essay examines the bidirectional relationship between dollar-invoiced trade and bilateral GVC flow using a Two-Stage Least Squares (2SLS) instrumental variables approach. The results reveal a robust and negative bidirectional relationship: greater reliance on the dollar in trade constrains deeper GVC integration, while increased participation in GVCs, in turn, reduces dollar dependence. These patterns are sensitive to exchange rate volatility, underscoring the complexity of policy trade-offs under uncertainty.
