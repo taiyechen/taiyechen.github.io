@@ -1,40 +1,22 @@
 ---
 layout: archive
-title: ""
+title: "Research"
 permalink: /research/
 author_profile: true
-
 ---
 
+This section highlights my more developed economics research, including working papers and job market paper materials.
 
-My current research examines how exchange rate fluctuations affect trade and global economic integration. One key focus is how dominant currency invoicing, particularly in US dollars, influences countries' participation in global value chains and shapes their economic competitiveness.
-
-My second major research agenda explores the effects of geoeconomic fragmentation and debt sustainability. I analyze how geopolitical tensions impact economic gains and losses for countries in different groups, as well as how these dynamics influence their integration into the global financial system and expose vulnerabilities in their debt structures.
-
-
-##  Current research projects include:
-
-### Job Market Paper: "U.S. Dollar Invoicing and GVC Participation: A Two-Way Interaction"
-[Link here](/files/JMP-TC.pdf)
-
-This work pushes further from one of my works. It further examines the bidirectional relationship between dominant currency invoicing practicing in international trade and participation in Global Value Chains (GVCs). This essay examines the bidirectional relationship between dollar-invoiced trade and bilateral GVC flow using a Two-Stage Least Squares (2SLS) instrumental variables approach. The results reveal a robust and negative bidirectional relationship: greater reliance on the dollar in trade constrains deeper GVC integration, while increased participation in GVCs, in turn, reduces dollar dependence. These patterns are sensitive to exchange rate volatility, underscoring the complexity of policy trade-offs under uncertainty.
-
-
-### "The Impact of Trade Invoicing Decisions on Global Value Chain Participation: An Empirical Analysis"
-
-Over the past three decades, globalization has led to a highly interconnected global production network. This paper investigates how exchange rate fluctuations influence global value chain (GVC) participation at a disaggregated level, focusing on the role of dominant currency invoicing. Using data from 96 countries (1990–2020), the analysis shows that trade invoiced in dominant currencies is more sensitive to exchange rate movements. Dollar appreciation dampens GVC participation, particularly backward production, which in turn affects forward linkages over time. However, dominant currency invoicing mitigates some of these negative effects, highlighting its stabilizing role amid currency fluctuations. 
-
-
-### "Are Real Exchange Rate Undervaluation and Trade Integration Complements? An Evaluation on Employment Reallocation"
-
-This paper explores the impact of real exchange rate (RER) undervaluation on labor reallocation to tradable sectors in the context of increasing global trade integration. Existing literature suggests that RER undervaluation effectively supports growth in developing countries by directing economic factors of production toward sectors with high learning spillovers, typically tradable sectors. Building on this premise and acknowledging the intensified efforts toward globalization, this study employs the Local Projection method to analyze the marginal effects of RER undervaluation on labor reallocation to tradable sectors as economies become more integrated. This approach allows for a nuanced understanding of how RER policies influence economic restructuring in an integrated global market, providing valuable insights for policymakers aiming to optimize trade and exchange rate strategies to foster sustainable economic growth.
-
-<nbsp>
+My current work focuses on international economics, development, and macroeconomics, with particular interest in exchange rates, trade invoicing, global value chains, geoeconomic fragmentation, and debt sustainability.
 
 {% include base_path %}
 
 {% assign ordered_pages = site.research | sort:"order_number" %}
 
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
+{% if ordered_pages.size > 0 %}
+  {% for post in ordered_pages %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% else %}
+  <p>Research entries will appear here as they are added.</p>
+{% endif %}
