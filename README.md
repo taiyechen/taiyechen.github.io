@@ -4,7 +4,9 @@ This repository contains the source for Taiye Chen's personal academic website, 
 
 ## Upstream Credit
 
-This site was originally forked from [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which was adapted from the [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes) by Michael Rose.
+This repository was forked from [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io).
+
+Academic Pages is a fork of the [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes) by Michael Rose.
 
 This repository is now customized for personal use, but the upstream project structure and theme lineage are intentionally acknowledged here. The original license and changelog files are retained in this repository.
 

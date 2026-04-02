@@ -1,6 +1,8 @@
 # Changelog
 
-This repository began as a fork of [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which was adapted from the [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes).
+This repository began as a fork of [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io).
+
+Academic Pages is a fork of the [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes).
 
 The original upstream changelog was template-focused and tracked general theme development. Because this repository now serves as a personal academic website, that full upstream changelog is no longer maintained here.
 
