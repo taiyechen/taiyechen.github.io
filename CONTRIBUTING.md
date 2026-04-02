@@ -1,5 +1,18 @@
-Contributions are welcome! Please add issues and make pull requests. There are no stupid questions. All ideas are welcome. This is a volunteer project. Be excellent to each other.
+# Contributing
 
-Fork from master and go from there. This repository is intended to remain a generic, ready-to-fork template that demonstrates the features of academicpages.
+This repository is primarily maintained as Taiye Chen's personal academic website rather than as a general-purpose template project.
 
-If you make a pull request and change code, please make sure there is a closed issue tagged with 'code change' that has some comment linking to either the single commit (if the change was just one commit) or a diff comparing before/after the change (see [issue 21](https://github.com/academicpages/academicpages.github.io/issues/21) for example). This is so that those who have forked this repo and modified it for their purposes can more easily patch bugs and new features.
+## Upstream Credit
+
+The site structure originated from [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which in turn builds on the [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes).
+
+## Contribution Scope
+
+Small corrections are welcome, especially for broken links, typos, accessibility issues, or deployment-related fixes.
+
+For broader theme or template improvements, please consider contributing upstream to the Academic Pages or Minimal Mistakes projects when appropriate.
+
+## Notes
+
+- Please avoid removing upstream credit or license information.
+- This repository may intentionally differ from upstream because it is customized for personal use.

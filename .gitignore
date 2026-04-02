@@ -1,4 +1,10 @@
+.DS_Store
 _site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+vendor/bundle/
+/.bundle/
 images/posts/*.tex
 images/posts/*.pdf
 images/posts/*.sty
