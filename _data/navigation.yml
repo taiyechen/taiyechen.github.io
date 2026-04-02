@@ -9,9 +9,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Writing"
-    url: /posts/
-
   - title: "Teaching"
     url: /teaching/
     

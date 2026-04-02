@@ -5,9 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-This section highlights my more developed economics research, including working papers and job market paper materials.
-
-My current work focuses on international economics, development, and macroeconomics, with particular interest in exchange rates, trade invoicing, global value chains, geoeconomic fragmentation, and debt sustainability.
+My current work focuses on international economics, development, and macroeconomics, with particular interest in exchange rates, trade invoicing, global value chains, and geoeconomic fragmentation.
 
 {% include base_path %}
 
