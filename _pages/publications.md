@@ -7,8 +7,6 @@ redirect_from:
   - /publications/
 ---
 
-This section collects policy briefs, issue papers, and shorter commentary pieces. More developed academic papers remain under Research.
-
 {% include base_path %}
 
 ## Policy Briefs
