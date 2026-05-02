@@ -5,6 +5,7 @@ permalink: /research/dollar-invoicing-gvc-two-way-interaction/
 status: "Job Market Paper"
 authors: "Taiye Chen"
 year: "2026"
+research_area: economics
 order_number: 1
 paperurl: /files/research/JMP-TC.pdf
 excerpt: "This paper studies the bidirectional relationship between dominant currency invoicing and bilateral global value chain participation, with attention to exchange rate volatility and tradeoffs under uncertainty."
