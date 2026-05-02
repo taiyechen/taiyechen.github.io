@@ -3,7 +3,7 @@ title: "AI Incident Monitoring through a Public Health Lens"
 collection: research
 permalink: /research/ai-incident-monitoring-public-health-lens/
 status: "arXiv Preprint"
-authors: "Sophia Abraham*, Taiye Chen*, Cyril Chhun, Giovanna Jaramillo-Gutierrez, Simon Mylius, Sayash Raaj, Peter Slattery, Sean McGregor"
+authors: "Sophia Abraham<sup>*</sup>, Taiye Chen<sup>*</sup>, Cyril Chhun, Giovanna Jaramillo-Gutierrez, Simon Mylius, Sayash Raaj, Peter Slattery, Sean McGregor"
 year: "2026"
 research_area: ai-governance
 order_number: 1

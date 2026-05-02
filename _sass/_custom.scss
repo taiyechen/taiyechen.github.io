@@ -36,10 +36,22 @@
 }
 
 .research-section-note {
-  margin: -0.2em 0 1.2em;
-  font-size: $type-size-6;
+  margin: -0.35em 0 1em;
+  font-size: 0.78em;
+  line-height: 1.45;
+  color: $muted-text-color;
+}
+
+.research-section-note strong {
+  color: $text-color;
+  font-weight: 600;
 }
 
 .research-section-note span {
-  color: $muted-text-color;
+  color: inherit;
+}
+
+.archive__item-authors sup {
+  font-size: 0.72em;
+  vertical-align: super;
 }

@@ -15,8 +15,7 @@ My research spans international economics and an emerging line of work in AI gov
 <h2 class="archive__subtitle">AI Governance</h2>
 
 <p class="research-section-note">
-  Papers:<br>
-  <span>* indicates a paper's first author(s).</span>
+  <strong>Papers.</strong> <span>* indicates a paper's first author(s).</span>
 </p>
 
 {% if ai_governance_projects.size > 0 %}
