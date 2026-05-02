@@ -18,40 +18,83 @@
   font-size: $type-size-5;
 }
 
-.archive__item-title--research {
-  font-size: $type-size-6;
-  margin-bottom: 0.15em;
-  line-height: 1.35;
+.research-page {
+  max-width: 44rem;
 }
 
-.archive__item-links-inline {
-  font-size: 0.85em;
+.research-page .research-intro {
+  margin-bottom: 2rem;
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: mix(#000, $text-color, 5%);
+}
+
+.research-page .research-section-title {
+  margin: 2rem 0 0.65rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid mix(#fff, $text-color, 70%);
+  color: $text-color;
+  font-size: 1.05rem;
+  line-height: 1.25;
+  font-weight: 700;
+}
+
+.research-page .archive__item {
+  margin-bottom: 1.65rem;
+}
+
+.research-page .archive__item-title--research {
+  margin: 0 0 0.35rem;
+  font-size: 1rem;
+  line-height: 1.35;
+  font-weight: 700;
+}
+
+.research-page .archive__item-links-inline {
+  font-size: 0.86em;
   font-weight: normal;
 }
 
-.archive__item-authors,
-.archive__item-venue {
-  margin: 0 0 0.25em;
-  font-size: 0.95em;
-}
-
-.research-section-note {
-  margin: -0.35em 0 1em;
-  font-size: 0.78em;
+.research-page .archive__item-authors,
+.research-page .archive__item-venue {
+  margin: 0 0 0.28rem;
+  font-size: 0.88rem;
   line-height: 1.45;
-  color: mix(#fff, $text-color, 35%);
 }
 
-.research-section-note strong {
+.research-page .archive__item-authors {
+  color: $text-color;
+}
+
+.research-page .archive__item-venue {
+  color: mix(#fff, $text-color, 30%);
+  font-style: normal;
+}
+
+.research-page .archive__item-excerpt--research {
+  margin-top: 0.55rem;
+  font-size: 0.88rem;
+  line-height: 1.6;
+  color: mix(#000, $text-color, 8%);
+}
+
+.research-page .research-section-note {
+  margin: -0.35rem 0 1.25rem;
+  font-size: 0.68rem;
+  line-height: 1.35;
+  color: mix(#fff, $text-color, 38%);
+}
+
+.research-page .research-section-note strong {
   color: $text-color;
   font-weight: 600;
 }
 
-.research-section-note span {
+.research-page .research-section-note span {
   color: inherit;
 }
 
-.archive__item-authors sup {
+.research-page .archive__item-authors sup {
   font-size: 0.72em;
   vertical-align: super;
 }
