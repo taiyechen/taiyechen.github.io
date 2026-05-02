@@ -39,7 +39,7 @@
   margin: -0.35em 0 1em;
   font-size: 0.78em;
   line-height: 1.45;
-  color: $muted-text-color;
+  color: mix(#fff, $text-color, 35%);
 }
 
 .research-section-note strong {
