@@ -26,9 +26,23 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title{% if post.collection == 'publications' %} archive__item-title--publication{% endif %}" itemprop="headline">
-      {% if post.collection == 'publications' or post.collection == 'research' %}
+    <h2 class="archive__item-title{% if post.collection == 'publications' %} archive__item-title--publication{% endif %}{% if post.collection == 'research' %} archive__item-title--research{% endif %}" itemprop="headline">
+      {% if post.collection == 'publications' %}
         {{ title }}
+      {% elsif post.collection == 'research' %}
+        {{ title }}
+        {% if post.link or post.paperurl %}
+          <span class="archive__item-links-inline">
+            (
+            {% if post.link %}
+              <a href="{{ post.link }}">{{ post.link_label | default: "link" }}</a>{% if post.paperurl %}, {% endif %}
+            {% endif %}
+            {% if post.paperurl %}
+              <a href="{{ post.paperurl }}">{{ post.paperurl_label | default: "pdf" }}</a>
+            {% endif %}
+            )
+          </span>
+        {% endif %}
       {% elsif post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
@@ -44,33 +58,24 @@
     {% if post.collection == 'teaching' %}
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'research' %}
-      {% assign research_meta = "" %}
-      {% if post.status %}
-        {% assign research_meta = post.status %}
-      {% endif %}
       {% if post.authors %}
-        {% if research_meta != "" %}
-          {% assign research_meta = research_meta | append: " | " %}
+        <p class="archive__item-authors">{{ post.authors }}</p>
+      {% endif %}
+      {% assign research_note = post.publication_note | default: "" %}
+      {% if research_note == "" %}
+        {% if post.status and post.year %}
+          {% assign research_note = post.status | append: ", " | append: post.year | append: "." %}
+        {% elsif post.status %}
+          {% assign research_note = post.status %}
+        {% elsif post.year %}
+          {% assign research_note = post.year %}
         {% endif %}
-        {% assign research_meta = research_meta | append: post.authors %}
       {% endif %}
-      {% if post.year %}
-        {% if research_meta != "" %}
-          {% assign research_meta = research_meta | append: " | " %}
-        {% endif %}
-        {% assign research_meta = research_meta | append: post.year %}
+      {% if research_note != "" %}
+        <p class="archive__item-venue">{{ research_note }}</p>
       {% endif %}
-      {% if research_meta != "" %}
-        <p>{{ research_meta }}</p>
-      {% endif %}
-      {% if post.paperurl or post.link or post.code or post.github or post.slides %}
+      {% if post.code or post.github or post.slides %}
         <p>
-        {% if post.paperurl %}
-          <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-        {% endif %}
-        {% if post.link %}
-          <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-        {% endif %}
         {% if post.code %}
           <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
         {% endif %}

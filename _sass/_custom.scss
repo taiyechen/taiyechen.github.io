@@ -17,3 +17,18 @@
 .archive__item-title--publication {
   font-size: $type-size-5;
 }
+
+.archive__item-title--research {
+  font-size: $type-size-5;
+  margin-bottom: 0.2em;
+}
+
+.archive__item-links-inline {
+  font-size: 0.9em;
+  font-weight: normal;
+}
+
+.archive__item-authors,
+.archive__item-venue {
+  margin: 0 0 0.25em;
+}
