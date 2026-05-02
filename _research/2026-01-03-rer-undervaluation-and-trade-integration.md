@@ -8,10 +8,10 @@ year: "2026"
 research_area: economics
 order_number: 3
 publication_note: "Working paper, 2026."
-excerpt: "A study of whether real exchange rate undervaluation and trade integration jointly support labor reallocation toward tradable sectors in developing economies."
-abstract: "This project studies how real exchange rate undervaluation affects labor reallocation between tradable and non-tradable sectors as economies become more integrated into global trade. Using a local projections approach, the paper evaluates how undervaluation and trade integration interact in shaping structural transformation. The goal is to better understand when exchange rate policy and openness reinforce each other in supporting sustainable growth."
+excerpt: "A study of whether real exchange rate undervaluation and trade integration jointly support labor reallocation toward tradable sectors."
+abstract: "This project evaluates whether real exchange rate undervaluation and trade integration jointly support labor reallocation toward tradable sectors. Using local projections, it studies how undervaluation affects employment shifts as economies integrate into global trade. The project asks when exchange-rate policy and openness act as complements in structural transformation."
 ---
 
-This project studies how real exchange rate undervaluation affects labor reallocation between tradable and non-tradable sectors as economies become more integrated into global trade.
+This project evaluates whether real exchange rate undervaluation and trade integration jointly support labor reallocation toward tradable sectors.
 
-Using a local projections approach, the paper evaluates how undervaluation and trade integration interact in shaping structural transformation. The goal is to better understand when exchange rate policy and openness reinforce each other in supporting sustainable growth.
+Using local projections, it studies how undervaluation affects employment shifts as economies integrate into global trade. The project asks when exchange-rate policy and openness act as complements in structural transformation.

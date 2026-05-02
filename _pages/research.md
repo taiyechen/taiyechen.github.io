@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="research-page">
 
-<p class="research-intro">My research spans international economics and an emerging line of work in AI governance. In AI-related work, I focus on AI governance, export control policies, and AI's economic impact. In economics, I focus on exchange rates, trade invoicing, global value chains, and geoeconomic fragmentation.</p>
+<p class="research-intro">My research spans international economics and an emerging line of work in AI governance. Across these projects, I study how policy choices shape cross-border markets, development, and technological risk. My economics work uses empirical tools to examine exchange rates, trade invoicing, and global value chains; my AI governance work focuses on incident monitoring, export control policies, and AI's economic impact.</p>
 
 {% include base_path %}
 
@@ -16,8 +16,10 @@ author_profile: true
 
 <h2 class="research-section-title">AI Governance</h2>
 
+<p class="research-section-summary">I approach AI governance as a problem of measurement, institutional design, and political economy: how to make AI risks observable, how to build oversight capacity, and how to evaluate the economic consequences of AI deployment.</p>
+
 <p class="research-section-note">
-  <strong>Papers.</strong> <span>* indicates a paper's first author(s).</span>
+  <span><span class="author-marker">*</span> indicates equal first authorship.</span>
 </p>
 
 {% if ai_governance_projects.size > 0 %}
@@ -28,7 +30,9 @@ author_profile: true
   <p>AI governance research entries will appear here as they are added.</p>
 {% endif %}
 
-<h2 class="research-section-title">Economics</h2>
+<h2 class="research-section-title">International Economics</h2>
+
+<p class="research-section-summary">My international economics work studies how exchange rates, currency invoicing, and trade integration shape global value chain participation and structural change, especially for economies navigating geoeconomic fragmentation.</p>
 
 {% if economics_projects.size > 0 %}
   {% for post in economics_projects %}

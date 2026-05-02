@@ -39,6 +39,13 @@
   font-weight: 700;
 }
 
+.research-page .research-section-summary {
+  margin: 0 0 0.7rem;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: mix(#000, $text-color, 6%);
+}
+
 .research-page .archive__item {
   margin-bottom: 1.65rem;
 }
@@ -79,22 +86,26 @@
 }
 
 .research-page .research-section-note {
-  margin: -0.35rem 0 1.25rem;
+  margin: 0 0 1.25rem;
   font-size: 0.68rem;
   line-height: 1.35;
   color: mix(#fff, $text-color, 38%);
-}
-
-.research-page .research-section-note strong {
-  color: $text-color;
-  font-weight: 600;
 }
 
 .research-page .research-section-note span {
   color: inherit;
 }
 
-.research-page .archive__item-authors sup {
-  font-size: 0.72em;
-  vertical-align: super;
+.research-page .author-marker {
+  display: inline-block;
+  margin-left: 0.04em;
+  font-size: 0.78em;
+  line-height: 1;
+  position: relative;
+  top: -0.08em;
+}
+
+.research-page .research-section-note .author-marker {
+  margin-left: 0;
+  top: -0.04em;
 }
