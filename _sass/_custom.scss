@@ -19,16 +19,27 @@
 }
 
 .archive__item-title--research {
-  font-size: $type-size-5;
-  margin-bottom: 0.2em;
+  font-size: $type-size-6;
+  margin-bottom: 0.15em;
+  line-height: 1.35;
 }
 
 .archive__item-links-inline {
-  font-size: 0.9em;
+  font-size: 0.85em;
   font-weight: normal;
 }
 
 .archive__item-authors,
 .archive__item-venue {
   margin: 0 0 0.25em;
+  font-size: 0.95em;
+}
+
+.research-section-note {
+  margin: -0.2em 0 1.2em;
+  font-size: $type-size-6;
+}
+
+.research-section-note span {
+  color: $muted-text-color;
 }

@@ -12,10 +12,12 @@ My research spans international economics and an emerging line of work in AI gov
 {% assign economics_projects = site.research | where: "research_area", "economics" | sort: "order_number" %}
 {% assign ai_governance_projects = site.research | where: "research_area", "ai-governance" | sort: "order_number" %}
 
-## AI Governance
+<h2 class="archive__subtitle">AI Governance</h2>
 
-Papers:  
-\* indicates a paper's first author(s).
+<p class="research-section-note">
+  Papers:<br>
+  <span>* indicates a paper's first author(s).</span>
+</p>
 
 {% if ai_governance_projects.size > 0 %}
   {% for post in ai_governance_projects %}
@@ -25,7 +27,7 @@ Papers:
   <p>AI governance research entries will appear here as they are added.</p>
 {% endif %}
 
-## Economics
+<h2 class="archive__subtitle">Economics</h2>
 
 {% if economics_projects.size > 0 %}
   {% for post in economics_projects %}
